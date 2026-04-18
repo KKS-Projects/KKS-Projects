@@ -59,7 +59,7 @@ I build production-grade systems end-to-end — from database schema design to c
 
 Built with **React** (web), **React Native** (iOS & Android), and **Azure SQL** — deployed on **Netlify** with CI/CD automation via GitHub (main-branch push triggers). Integrated **Google Analytics** dashboards for real-time, data-driven visibility into system usage and performance.
 
-- Coordinated a cross-functional team through full SDLC: requirements → architecture → development → live demo
+- Worked in a cross-functional team through full SDLC: requirements → architecture → development → live demo
 - Managed 3 simultaneous stakeholder roles within one platform, maintaining scope alignment throughout
 - Engineered CI/CD pipeline eliminating manual deployment effort and ensuring governed release cycles
 
