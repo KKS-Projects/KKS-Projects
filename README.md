@@ -3,7 +3,7 @@
 # Hey, I'm Kgalalelo Sithole 👋
 ### BSc Information Technology Graduate · Pretoria, South Africa 🇿🇦
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kgalalelo-sithole-LinkedIn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kgalalelo-sithole)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/KKS-Projects)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kgalalelokgaugelo@gmail.com)
 
@@ -93,5 +93,5 @@ Engineered a **7+ table normalised schema** in **Azure SQL** with full data inte
 Open to conversations about graduate programmes, internship opportunities, or interesting data and software projects.
 
 📬 **kgalalelokgaugelo@gmail.com**  
-💼 **[linkedin.com/in/KK-Sithole-LinkedIn](https://linkedin.com/in/kgalalelo-sithole-LinkedIn)**  
+💼 **[linkedin.com/in/KK-Sithole-LinkedIn](https://linkedin.com/in/kgalalelo-sithole)**  
 📍 Pretoria, Gauteng — open to remote or relocation
